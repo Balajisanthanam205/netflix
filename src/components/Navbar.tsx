@@ -27,7 +27,7 @@ export const Navbar: React.FC = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-8">
             <h1 className="text-red-600 text-2xl font-bold">NETFLIX</h1>
-            <div className="hidden md:flex items-center gap-6">
+         <div className="hidden md:flex items-center gap-6">
               <a href="#" className="text-gray-300 hover:text-white">Home</a>
               <a href="#" className="text-gray-300 hover:text-white">TV Shows</a>
               <a href="#" className="text-gray-300 hover:text-white">Movies</a>

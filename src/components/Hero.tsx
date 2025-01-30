@@ -37,6 +37,10 @@ export const Hero: React.FC<HeroProps> = ({ content }) => {
             More Info
           </button>
         </div>
+        <br>
+        </br>
+        <br>
+        </br>
       </motion.div>
     </div>
   );
